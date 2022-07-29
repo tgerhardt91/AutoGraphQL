@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tgerhardt91.autographql.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tgerhardt91.autographql.MyBundle
 
 class MyApplicationService {
 
